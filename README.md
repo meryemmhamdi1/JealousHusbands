@@ -1,6 +1,6 @@
 # JealousHusbands
-
-This project was done in collaboration with teammate Soukaina Chrifi Alaoui for Artificial Intelligence class under the supervision of Dr. Violetta Cavalli Sforza.
+>
+This project was done in collaboration with teammate <b> Soukaina Chrifi Alaoui </b> for Artificial Intelligence class under the supervision of <b> Dr. Violetta Cavalli Sforza </b>.
 This is an implementation of a solution to the famous Jealous Husbands problem in which jealous husbands and their wives have to cross a river using a boat
 such that no woman is left in the company of any other woman's husband either in the boat or in any side of the river unless her husband is also present.
 Using problem solving framework (initial state, goal test, operators, step/path cost, and concept of a solution) learned in Artificial Intelligence class, 
